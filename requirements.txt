@@ -4,3 +4,4 @@ qdrant_client
 python-dotenv
 openai
 sentence-transformers
+numpy<1.20
